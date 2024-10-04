@@ -3,7 +3,10 @@ table, th, td
         border:1px solid black;
         text-align:center;
     }
-h1 {font-size:4em;}
+h1  {
+        font-size:4em;
+        text-align: center;
+    }
 
 p {font-size: 2em;}
 
