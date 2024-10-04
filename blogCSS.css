@@ -3,6 +3,7 @@ table, th, td
         border:1px solid black;
         text-align:center;
     }
+
 h1  {
         font-size:4em;
         text-align: center;
@@ -15,4 +16,5 @@ td
         width:20%;
         font-size: 2em;
     }
- body {background-color:bisque;}
+
+    body {background-color:bisque;}
