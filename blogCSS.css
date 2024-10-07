@@ -73,5 +73,9 @@ body {background-color:bisque;}
     width: 100%;
     text-align: Center;
     background-color: Lavender;
-    font-size: Large;
+    font-size: 20px;
+}
+
+.mainContent{
+  position:relative;
 }
