@@ -64,9 +64,9 @@ body {background-color:bisque;}
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 .header {
-    width:100%;
-    minimum-height: 100px;
-    position: absolute; 
-    top: 0;
-    color: green;
+    padding: 10px;
+    text-align: Center;
+    background: red;
+    color: white;
+    font-size: 30px;
 }
