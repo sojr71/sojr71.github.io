@@ -62,3 +62,11 @@ body {background-color:bisque;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.header {
+    width:100%;
+    minimum-height: 100px;
+    position: absolute; 
+    top: 0;
+    color: green;
+}
