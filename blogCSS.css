@@ -64,9 +64,13 @@ body {background-color:bisque;}
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 .header {
-    padding: 10px;
+    padding: 5px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     text-align: Center;
-    background: Green;
+    background: Lavender;
     color: white;
-    font-size: xx-large;
+    font-size: Large;
 }
