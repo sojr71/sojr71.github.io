@@ -66,7 +66,7 @@ body {background-color:bisque;}
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
 .header {
-    padding: 5px;
+    padding: 0;
     position: fixed;
     top: 0;
     left: 0;
