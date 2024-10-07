@@ -18,3 +18,7 @@ td
     }
 
 body {background-color:bisque;}
+
+.currentBook {
+    background-color:green;
+}
