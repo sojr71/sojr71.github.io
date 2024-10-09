@@ -6,6 +6,9 @@ table,td,th
 {
   border: 1px solid black;
 }
+th{
+  font-size: x-large;
+}
 p {
   font-size: 2em;
 }
