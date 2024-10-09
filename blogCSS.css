@@ -1,5 +1,5 @@
 h1 {
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
 }
 table,td,th
@@ -19,7 +19,7 @@ td {
 }
 
 body {
-  background-color:darkcyan;
+  background-color:rgb(197, 231, 231);
 }
 
 /* Dropdown Button */
