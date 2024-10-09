@@ -2,7 +2,10 @@ h1 {
   font-size: 4em;
   text-align: center;
 }
-
+table,td,th
+{
+  border: 1px solid black;
+}
 p {
   font-size: 2em;
 }
