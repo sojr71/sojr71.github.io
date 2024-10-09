@@ -82,23 +82,7 @@ body {
 }
 
 /*Sidebar Code for reading and readingArchive*/
-.sidebar {
-  border-radius: 25px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  width: 250px;
-  position: fixed;
-  right: 0;
-  top: 100px;
-  background-color: lightblue;
-  text-align: center;
-}
 
-.sidebar div {
-  padding: 8px;
-  font-size: 24px;
-  display: block;
-}
 
 .mainContent {
   margin-top: 100px;
