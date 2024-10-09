@@ -1,24 +1,24 @@
-table, th, td 
-    {
-        
-    }
+h1 {
+  font-size: 4em;
+  text-align: center;
+}
 
-h1  {
-        font-size:4em;
-        text-align: center;
-    }
- 
-p {font-size: 2em;}
+p {
+  font-size: 2em;
+}
 
-td 
-    {
-        width:20%;
-        font-size: 2em;
-    }
+td {
+  width: 20%;
+  font-size: 2em;
+}
 
-body {background-color:bisque;}
+body {
+  background-color: bisque;
+}
 
-.here {color:red;}
+.here {
+  color: red;
+}
 
 /* Dropdown Button */
 .dropbtn {
@@ -43,7 +43,7 @@ body {background-color:bisque;}
   position: absolute;
   background-color: #f1f1f1;
   min-width: 250px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 
@@ -56,25 +56,50 @@ body {background-color:bisque;}
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd;}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block;}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
-
-.header {
-    padding: 0;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    text-align: Center;
-    background-color: Lavender;
-    font-size: 20px;
+.dropdown-content a:hover {
+  background-color: #ddd;
 }
 
-.mainContent{
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+.header {
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: Center;
+  background-color: Lavender;
+  font-size: 20px;
+}
+
+/*Sidebar Code for reading and readingArchive*/
+.sidebar {
+  border-radius: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 250px;
+  position: fixed;
+  right: 0;
+  top: 100px;
+  background-color: lightblue;
+  text-align: center;
+}
+
+.sidebar div {
+  padding: 8px;
+  font-size: 24px;
+  display: block;
+}
+
+.mainContent {
   margin-top: 100px;
 }
