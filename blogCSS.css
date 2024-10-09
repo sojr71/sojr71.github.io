@@ -1,7 +1,9 @@
 table, th, td 
     {
-        background-color: cadetblue;
-        border-radius: 25px;
+        /*border:1px solid black;*/
+        border-radius: 25 px;
+        background-color: cornflowerblue;
+        text-align:center;
     }
 
 h1  {
