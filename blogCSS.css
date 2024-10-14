@@ -94,4 +94,5 @@ body {
 /*Keep footer at bottom*/
 footer{
   bottom: 0;
+  left:0;
 }
